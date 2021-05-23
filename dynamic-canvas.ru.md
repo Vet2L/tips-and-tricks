@@ -3,7 +3,7 @@
 Рендерер расширяется до заданых размеров, а *CSS* стиль все это скейлит.
 
 ```
-	let ratio = width / height;
+    let ratio = width / height;
     let gr = targetWidth / targetHeight;
     let dr = ratio / gr;
     
